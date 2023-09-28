@@ -16,10 +16,16 @@ git clone https://github.com/lucas-savioz/git-begins.git
 
 Les trois commandes push sont : 
 
-- git init
 - git add
-- git commit -m
-- git push -u -f origin master
+- git commit -m ""
+- git push 
+
+La commande git pull :
+
+On utilise cette commande pour fusionner toutes les modifications présentes 
+sur le dépôt distant dans le répertoire de travail local
+
+git pull commands.git
 
 (END)
 
