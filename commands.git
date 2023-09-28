@@ -1,0 +1,25 @@
+Pour cloner un repository il faut procéder comme suit :
+
+Ouvrir son terminal, s'assurer que l'on est bien dans notre fichier de référence.
+
+Exécuter la commande suivante : 
+
+cd ..
+
+Accéder au bon dossier
+
+(S'aider de la commande "ls" pour se situer)
+
+Exécuter la commande suivante :
+
+git clone https://github.com/lucas-savioz/git-begins.git
+
+Les trois commandes push sont : 
+
+- git init
+- git add
+- git commit -m
+- git push -u -f origin master
+
+(END)
+
