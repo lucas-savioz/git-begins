@@ -25,7 +25,7 @@ La commande git pull :
 On utilise cette commande pour fusionner toutes les modifications présentes 
 sur le dépôt distant dans le répertoire de travail local
 
-git pull commands.git
+Utiliser la commande : git pull, dans le dossier qui a été modifié
 
 (END)
 
