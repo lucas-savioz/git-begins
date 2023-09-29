@@ -1,0 +1,38 @@
+Pour cloner un repository il faut procéder comme suit :
+
+Ouvrir son terminal, s'assurer que l'on est bien dans notre fichier de référence.
+
+Exécuter la commande suivante : 
+
+cd ..
+
+Accéder au bon dossier
+
+(S'aider de la commande "ls" pour se situer)
+
+Exécuter la commande suivante :
+
+git clone https://github.com/lucas-savioz/git-begins.git
+
+Les trois commandes push sont : 
+
+- git add
+- git commit -m ""
+- git push 
+
+La commande git pull :
+
+On utilise cette commande pour fusionner toutes les modifications présentes 
+sur le dépôt distant dans le répertoire de travail local
+
+Utiliser la commande : git pull, dans le dossier qui a été modifié
+
+Pour créer une branche on utilise la commande suivante : 
+
+git branch add-create-branch-command
+
+La commande pour aller dans une branche : 
+
+git checkout add-create-branch-command 
+(END)
+
