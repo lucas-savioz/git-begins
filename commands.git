@@ -27,5 +27,12 @@ sur le dépôt distant dans le répertoire de travail local
 
 Utiliser la commande : git pull, dans le dossier qui a été modifié
 
+Pour créer une branche on utilise la commande suivante : 
+
+git branch add-create-branch-command
+
+La commande pour aller dans une branche : 
+
+git checkout add-create-branch-command 
 (END)
 
