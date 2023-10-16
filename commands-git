@@ -4,15 +4,15 @@ Ouvrir son terminal, s'assurer que l'on est bien dans notre fichier de référen
 
 Exécuter la commande suivante : 
 
-cd ..
+pwd
 
 Accéder au bon dossier
 
-(S'aider de la commande "ls" pour se situer)
+(S'aider de la commande "ls" pour se situer et "cd NomDuFichier" pour accéder au dossier)
 
 Exécuter la commande suivante :
 
-git clone https://github.com/lucas-savioz/git-begins.git
+sudo git clone https://github.com/lucas-savioz/git-begins.git
 
 Les trois commandes push sont : 
 
@@ -28,4 +28,3 @@ sur le dépôt distant dans le répertoire de travail local
 Utiliser la commande : git pull, dans le dossier qui a été modifié
 
 (END)
-
