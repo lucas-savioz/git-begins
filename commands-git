@@ -16,9 +16,9 @@ sudo git clone https://github.com/lucas-savioz/git-begins.git
 
 Les trois commandes push sont : 
 
-- git add
-- git commit -m ""
-- git push 
+- sudo git add .
+- sudo git commit -m ""
+- sudo git push 
 
 La commande git pull :
 
